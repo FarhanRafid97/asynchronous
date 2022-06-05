@@ -1,0 +1,4 @@
+Nama = farhan 
+ lokasi:padang 
+ true
+data user  di Backup pada tanggal = 06/05/2022

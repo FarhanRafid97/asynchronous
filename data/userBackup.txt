@@ -1,0 +1,4 @@
+Nama = farhan 
+ lokasi:padang 
+ true
+Backup data user 06/05/2022
